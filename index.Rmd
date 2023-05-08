@@ -1,9 +1,8 @@
 ---
 title: "Lessons from career"
-output:
-  ioslides_presentation: default
-  slidy_presentation: default
+output: slidy_presentation
 date: "2023-05-08"
+author: "Sanjid Rahman"
 ---
 
 ```{r setup, include=FALSE}
@@ -12,31 +11,26 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Job vs career
 
-### 
-
 ## Teaching
 
-### - Confident but approachable
-### - Demonstrate by relating
-### - Let go and enjoy success
+- Confident but approachable
+- Demonstrate by relating
+- Let go and enjoy success
 
 ## Debating
 
-### - Listen for discourse
-### - Compete as a team
-### - Secret is food
+- Listen for discourse
+- Compete as a team
+- Secret is food
 
 ## Programming
 
-### - Perfect position for process
-### - Ask for community
-### - Grit in dev, debug and refactor
+- Perfect position for process
+- Ask for community
+- Grit in dev, debug and refactor
 
 ## Refereeing
 
-### - Think off the feet
-### - Resilience
-### - Humility
-
-
-
+- Think off the feet
+- Resilience
+- Humility
