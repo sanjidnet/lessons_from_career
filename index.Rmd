@@ -10,27 +10,25 @@ date: "2023-05-08"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## Job vs career
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+## Teaching
 
-## Slide with Bullets
+### - Patience
+### - Relate
+### - Demonstrate
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+## Debating
 
-## Slide with R Output
+### - Discourse
+### - Listen
+### - 3rd speaker
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
+## Refereeing
 
-## Slide with Plot
+### - Quick thinking
+### - 
+###
 
-```{r pressure}
-plot(pressure)
-```
 
