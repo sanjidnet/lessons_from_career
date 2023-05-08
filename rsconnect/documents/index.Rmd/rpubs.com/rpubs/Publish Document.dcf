@@ -6,6 +6,6 @@ server: rpubs.com
 hostUrl: rpubs.com
 appId: https://api.rpubs.com/api/v1/document/1039404/33662d8689ac40c0a213f3f63eac4ef3
 bundleId: https://api.rpubs.com/api/v1/document/1039404/33662d8689ac40c0a213f3f63eac4ef3
-url: http://rpubs.com/sanjid25/1039404/edit
-when: 1683582052.36543
-lastSyncTime: 1683582052.36543
+url: http://rpubs.com/sanjid25/1039404
+when: 1683585956.28588
+lastSyncTime: 1683585956.28589

@@ -15,20 +15,27 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Teaching
 
-### - Patience
-### - Relate
-### - Demonstrate
+### - Confident but approachable
+### - Demonstrate by relating
+### - Let go
 
 ## Debating
 
-### - Discourse
-### - Listen
-### - 3rd speaker
+### - Listen for discourse
+### - Compete as a team
+### - Secret is food
+
+## Programming
+
+### - Position for understand process
+### - Ask for community
+### - 
 
 ## Refereeing
 
-### - Quick thinking
-### - 
-###
+### - Think off the feet
+### - Resilience
+### - Humility
+
 
 
