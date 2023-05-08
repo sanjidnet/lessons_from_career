@@ -12,12 +12,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Job vs career
 
+### 
 
 ## Teaching
 
 ### - Confident but approachable
 ### - Demonstrate by relating
-### - Let go
+### - Let go and enjoy success
 
 ## Debating
 
@@ -27,9 +28,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Programming
 
-### - Position for understand process
+### - Perfect position for process
 ### - Ask for community
-### - 
+### - Grit in dev, debug and refactor
 
 ## Refereeing
 
