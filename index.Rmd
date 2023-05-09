@@ -19,18 +19,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Debating
 
-- Listen for discourse
+- Discourse comes from listening too
 - Compete as a team
 - Secret is food
 
 ## Programming
 
 - Perfect position for process
-- Ask for community
+- Ask not for me but for us
 - Grit in dev, debug and refactor
 
 ## Refereeing
 
 - Think off the feet
-- Resilience
-- Humility
+- Resilience from critical feedback
+- Separation of involvement
